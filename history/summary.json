@@ -22,19 +22,19 @@
     "url": "https://dev.seemhews.app.seemhews-cip.ewchost.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.seemhews.app.seemhews-cip.ewchost.org.ico",
     "slug": "dev-seemhews-cip",
-    "status": "down",
-    "uptime": "20.63%",
-    "uptimeDay": "20.63%",
-    "uptimeWeek": "20.63%",
-    "uptimeMonth": "20.63%",
-    "uptimeYear": "20.63%",
-    "time": 468,
-    "timeDay": 468,
-    "timeWeek": 468,
-    "timeMonth": 468,
-    "timeYear": 468,
+    "status": "up",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
+    "time": 823,
+    "timeDay": 823,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-08-05": 0
+      "2024-08-05": 6
     }
   }
 ]
