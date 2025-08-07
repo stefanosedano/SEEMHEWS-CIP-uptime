@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seemhews.app.seemhews-cip.ewchost.org.ico",
     "slug": "seemhews-cip",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "97.04%",
-    "time": 1323,
-    "timeDay": 1111,
-    "timeWeek": 1386,
-    "timeMonth": 1225,
-    "timeYear": 1323,
+    "time": 1324,
+    "timeDay": 1642,
+    "timeWeek": 1353,
+    "timeMonth": 1235,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-07-13": 7,
       "2025-06-24": 38,
@@ -53,8 +53,7 @@
       "2024-09-01": 6,
       "2024-08-13": 6,
       "2024-08-09": 1043,
-      "2024-08-08": 1440,
-      "2024-08-07": 937
+      "2024-08-08": 1440
     }
   },
   {
@@ -63,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.seemhews.app.seemhews-cip.ewchost.org.ico",
     "slug": "dev-seemhews-cip",
     "status": "down",
-    "uptime": "43.40%",
+    "uptime": "43.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.33%",
-    "time": 922,
-    "timeDay": 810,
-    "timeWeek": 764,
-    "timeMonth": 863,
+    "uptimeYear": "43.06%",
+    "time": 921,
+    "timeDay": 751,
+    "timeWeek": 725,
+    "timeMonth": 862,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2025-08-06": 34,
+      "2025-08-07": 35,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -286,8 +286,7 @@
       "2024-09-21": 10,
       "2024-09-10": 13,
       "2024-08-09": 1043,
-      "2024-08-08": 1440,
-      "2024-08-07": 879
+      "2024-08-08": 1440
     }
   }
 ]
